@@ -41,4 +41,4 @@
 ;; '(speedbar-show-unknown-files t)
 ;; )
 
-;; PS1="\e[0;31m[\u @\h GA \w]>\$ \e[m\n>"
+;; PS1="\e[0;31m[\u @\h \w]>\$ \e[m\n>"
