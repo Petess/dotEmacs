@@ -44,4 +44,6 @@
 ;; PS1="\e[0;31m[\u @\h \w]>\$ \e[m\n>"
 ;; eval `ssh-agent`
 ;; ssh-add ~/.ssh/bitbucket_rsa
+;; export AWS_VAULT_BACKEND="file"
+
 
